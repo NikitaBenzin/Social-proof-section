@@ -1,0 +1,2 @@
+- Mobile / Desktop
+- preview: https://nikitabenzin.github.io/Social-proof-section/
